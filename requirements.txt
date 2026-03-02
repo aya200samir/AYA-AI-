@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+torch
+transformers
+xgboost
+scikit-learn
+pymupdf
+python-docx
