@@ -337,8 +337,7 @@ if st.button("تحليل الامتثال وتوقع المخاطر"):
             st.info(f"التحليل القانوني: النظام وجد تشابهاً مع قضية LastPass بسبب ثغرة الـ MFA.")
     else:
         st.error("رجاءً ادخلي نصاً للتحليل")
-
-!pip install shap
+pip install shap
 
 import shap
 
